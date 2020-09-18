@@ -1,4 +1,4 @@
-# Jack's edit changed again
+# Third time's the charm
 
 A place to play with `git`.
 
